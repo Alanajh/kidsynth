@@ -1,0 +1,36 @@
+
+.row{
+	position:relative;
+}
+#animals{
+	height: 310px;
+	width: 100%;
+}
+#animalPics{
+	margin: auto;
+	padding: 10px;
+	width: 80%;
+}
+#firstCol{
+	background-color: blue;
+	height: 537px;
+	
+}
+#secondCol{
+	background-color: red;
+	padding: 10px;
+	position: relative;
+	text-align:center;
+	top:0px;
+	bottom:0px;
+}
+#thirdCol{
+	background-color: yellow;
+	height: 537px;
+	position:relative;
+}
+#title{
+	color: white;
+	font-size: 46px;
+	
+}
